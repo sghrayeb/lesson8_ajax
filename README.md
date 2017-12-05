@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(12/5/17)
 
 ### Student Name:  
-(First and Last Name)
+(Sabrina Ghrayeb)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment you will be using a site called themoviedb.org to build an application that displays information about movies.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://sghrayeb.github.io/lesson8_ajax/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (In this lesson I have learned to build an application using an Application Programming Interface (API) through themoviedb.org.)
+2. (In this lesson I have learned to Parse JSON data from an HTTP response message.)
+3. (In this lesson I have learned to use Ajax methods and properties that allow one to send an HTTP Request and receive a response back an HTTP Response.)
